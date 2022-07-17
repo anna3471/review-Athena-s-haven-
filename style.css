@@ -1,0 +1,87 @@
+
+body {
+    font-family: sans-serif;
+}
+header {
+    height: 100px;
+    ackground-image: linear-gradient(to right, #C71616, #0C6D27, #E8A700, #C71616);
+}
+.hh {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 35px;
+    ox-shadow: 5px 5px 5px 5px black; 
+    font-family: extra bold italic, sans-serif;
+}
+header {
+    background: url("https://krot.info/uploads/posts/2022-02/1645042203_1-krot-info-p-appetitnii-fon-1.jpg");
+}
+a {
+    text-decoration: none;
+    margin-right: 100px;
+    text-align: center;
+    ackground-color: #0C6D27;
+    color: #0C6D27;
+    padding: 7px;
+    margin-top: 80px;
+    order: 3px solid #0C6D27;
+}
+nav {
+    margin-top: 20px;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a:hover {
+    color: black;
+}
+.time {
+    text-align: right;
+    color: grey;
+}
+span{
+    color: #C71616;
+    margin-bottom: 20px;
+}
+.rewiew-text{
+    margin-top: 10px;
+}
+article {
+    padding-top: 5px;
+    border-bottom: 2px solid #E8A700;
+    border-to: 2px solid #E8A700;
+}
+aside {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #D4DFF5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: black;
+    color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    
+}
+.ff {
+    color: white;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.imgf {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin: 0px;
+}
